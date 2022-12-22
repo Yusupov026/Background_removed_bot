@@ -1,0 +1,2 @@
+# Background_removed_bot
+Background_removed_bot
